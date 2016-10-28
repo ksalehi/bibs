@@ -1,18 +1,18 @@
-Website for the Brown Institute for Brain Science.
+# Website for the Brown Institute for Brain Science.
 
 Notes from CIM:
 
 Splash page - big images attached to 3 themes:
 
-1. Driving Discovery and Innovation
+(1) Driving Discovery and Innovation
 
 3D brain fly through, maybe a dynamic moving network like libd.org
 
-2. A Community of Diverse Opinions, Open Minds and Disruptive Ideas 
+(2) A Community of Diverse Opinions, Open Minds and Disruptive Ideas 
 
 Photo from Brain Week RI, neuro practicum, Hackerspace, etc.
 
-3. From Great Ideas to Real Solutions
+(3) From Great Ideas to Real Solutions
 
 On each of these screens, there should be a 'learn more' button, and that should kick to a page with links to groupings of people at Brown by areas of expertise so that it's easy for a student/donor/outsider to appreciate how great BIBS is.  Scrolling down should also lead to this page. This page of key example areas should look something like the following:
 
