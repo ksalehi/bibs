@@ -22,29 +22,29 @@ Text at the top - "Brown is a fantastic environment for discovery and innovation
 
 Examples of key areas of world-class work at BIBS:
 
-** New Tools that Advance Brain Science - feature Gilad, BL-OG, Hochberg
+* New Tools that Advance Brain Science - feature Gilad, BL-OG, Hochberg
 
-** Cutting Edge Computation at All Levels - feature Michael etc.
+* Cutting Edge Computation at All Levels - feature Michael etc.
 
-**	Moving Great Ideas xxx - feature Asaad!
+*	Moving Great Ideas xxx - feature Asaad!
 
-**	A Great Environment for the Next Generation of Discovery - and Innovation-Focused Scholars/Scientists
+*	A Great Environment for the Next Generation of Discovery - and Innovation-Focused Scholars/Scientists
 Brown is an inclusive community that places great value on training the next generation of great scientists.  We deeply value the contributions students make as equal partners in discovery and innovation. Feature PIBS, NSGP with emphasis on neuro practicum, neuroengineering.
 
-**	Basic Science that Builds the Future of Insight 		
+*	Basic Science that Builds the Future of Insight 		
 This is meant to feature things that aren't as demonstrably sexy, but emphasize how strong we are across many levels -- so perhaps 4 faculty profiles (Molecular person: David B. and Barry: Sheinberg and Theresa: Amso and Badre) and the 6 students that will be part of the day.
 
 Classic papers from Brown linked to a timeline / Icahn School of Medicine at Mount Sinai
 
-**	The Community that Makes BIBS Great
+* The Community that Makes BIBS Great
 Advisory Council with photos - contacting them for this would be great way of flagging them to the website, BIBS faculty hires with profiles
 
 Above the above-the-fold carousel is a nav bar of clean text with clickable options in small caps:
 
-** 	For the Brown Community (= the internal Brown Sites regulated page, Innovator award information, etc.)
-** 	Events
-**	Education
-**	Donate
-**	News and Press
-**	Tools and Resources
-**	BIBS BL-OG
+* 	For the Brown Community (= the internal Brown Sites regulated page, Innovator award information, etc.)
+*   Events
+*	Education
+*	Donate
+*	News and Press
+*	Tools and Resources
+*	BIBS BL-OG
